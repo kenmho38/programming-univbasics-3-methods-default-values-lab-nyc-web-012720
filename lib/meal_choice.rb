@@ -1,7 +1,7 @@
 # Your code here
 # For output purposes, use "puts" instead of "print" or "p"
 
-def meal_choice("broccoli", "macaroni", "protien")
+def meal_choice("broccoli","macaroni","protien")
   if protien = meat
   puts "What a nutritious meal!"
 else
