@@ -6,4 +6,5 @@ def meal_choice(broccoli, macaroni, protien)
   puts "What a nutritious meal!"
 else
   puts "A plate of #{protien} with #{veg1} and #{veg2}."
-end  
+end 
+end
